@@ -1,0 +1,9 @@
+body {
+    background-color: #FFCCCB;
+}
+.forum {
+    margin-left: 10%;
+    display: block;
+    padding: 10px;
+    height: 40%;
+}
