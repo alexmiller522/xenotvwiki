@@ -24,7 +24,7 @@ body {
         text-decoration: none;
         text-align: center;
         font-family: 'Bangers', cursive;
-        font-size: 40px;
+        font-size: 50px;
         width: 50%;
         height: 20%;
         padding-top: 0%;
@@ -123,8 +123,9 @@ body {
 
 /* The actual content */
 .content {
+    font-family: 'Bangers', cursive;
     padding: 20px 30px;
-    background-color: grey;
+    background-color: oldlace;
     position: relative;
     border-radius: 6px;
 }
