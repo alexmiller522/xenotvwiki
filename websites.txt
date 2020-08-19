@@ -8,3 +8,5 @@ https://www.w3schools.com/html/html_images_background.asp
 //website background
 https://www.youtube.com/watch?v=X6aMWDDJlJg
 //timeline
+https://stackoverflow.com/questions/43431856/remove-blank-spaces-between-buttons-in-html-css/43431885#:~:text=Browsers%20always%20add%20spaces%20between,set%20font%2Dsize%20for%20them.
+//fixing the spacing
