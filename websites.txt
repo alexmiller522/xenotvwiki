@@ -4,3 +4,7 @@ https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
 //go to the top button
 http://www.simplehtmlguide.com/youtube.php
 //embeded websites
+https://www.w3schools.com/html/html_images_background.asp
+//website background
+https://www.youtube.com/watch?v=X6aMWDDJlJg
+//timeline
