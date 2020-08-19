@@ -1,5 +1,5 @@
 body {
-    background-color: #eef2fe;
+    background-color: #21502e;
 }
 .forum {
     margin-left: 10%;
@@ -7,3 +7,24 @@ body {
     padding: 10px;
     height: 40%;
 }
+
+.links{
+    display: flex;
+    flex-direction:row;
+    height:40%;
+}
+
+    .links a {
+        border-top: solid;
+        border-bottom: solid;
+        background-color: lightgray;
+        color: forestgreen;
+        text-decoration: none;
+        text-align: center;
+        font-family: 'Arial Black';
+        font-size: 40px;
+        width: 50%;
+        height: 20%;
+        padding-top: 0%;
+        padding-bottom: 0%;
+    }

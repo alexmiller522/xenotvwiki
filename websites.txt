@@ -1,0 +1,6 @@
+https://www.w3schools.com/css/css_navbar.asp
+//tabs
+https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+//go to the top button
+http://www.simplehtmlguide.com/youtube.php
+//embeded websites
